@@ -1,0 +1,54 @@
+
+*{
+    background-image: url(cover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    opacity:0.8;
+}
+form {
+    width:70px;
+    height: 235px;
+    text-align: center;
+    margin:200px 0px 0px 100px;
+background-color: #2C1D06;
+    width: 300px;
+
+    background:black;
+
+  padding: 50px;
+  margin: 20px 80px;
+    border:10px solid black;
+    color:black;
+opacity:1;
+    
+}
+.i {
+    color:white;
+    background: white;
+   
+    border-radius:50px;
+    
+    width:200px;
+    height:30px;
+    margin:7px;
+   color:red;
+    
+}
+.S{
+    background:white;
+    color:red;
+}
+.Send {
+    width: 200px;
+    height:40px;
+    background:black;
+    color:white;
+   
+   
+    border-radius:10px;
+    background-image: image();
+    color:white;
+    outline-color: white;
+}
