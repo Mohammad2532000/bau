@@ -1,0 +1,75 @@
+
+a  {
+       text-decoration: none;
+ margin:10px;
+    color:black;
+    
+}
+.ahref{
+    width:60%;
+    background-color:skyblue;
+    border:2px solid blue;
+    padding:4px;
+    text-align: center;
+    
+     margin: 0 auto;
+    padding:0 auto;
+}
+.Menu {
+   
+    
+   margin: 0 auto;
+    padding:0 auto;
+}
+.TopMenu{
+    text-align: right;
+}
+
+body {
+  background-color:#ECE6E6;
+    margin :0 auto;
+    padding:0auto;
+}
+.Information-Student{
+    width:60%;
+    height:200px;
+    border:2px solid black;
+    padding:0 auto;
+    margin :0 auto;
+    margin-top:40px;
+    border-radius:10px;
+    
+}
+.I {
+    color:red;
+    margin-right:5px;
+}
+ {
+    text-align: center;
+}
+table ,tr , th ,td {
+    margin:5px;
+    text-align: center;
+  
+}
+.t {
+    margin-right: 130px;
+}
+.e {
+    margin-right:110px;
+}
+
+.submit{
+  margin-right:400px;
+    margin-top:20px;
+    font-size:20px;
+width:150px;
+    height:40px;
+}
+.n {
+    text-align: center;
+    
+}
+span {
+    color:blue;
+}
