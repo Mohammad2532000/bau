@@ -1,0 +1,128 @@
+
+a  {
+       text-decoration: none;
+ margin:10px;
+    color:black;
+    
+}
+.ahref{
+    width:60%;
+    background-color:skyblue;
+    border:2px solid blue;
+    padding:4px;
+    text-align: center;
+    
+     margin: 0 auto;
+    padding:0 auto;
+}
+.Menu {
+   
+    
+   margin: 0 auto;
+    padding:0 auto;
+}
+.TopMenu{
+    text-align: right;
+}
+
+body {
+  background-color:#FEF5D5;
+    margin :0 auto;
+    padding:0auto;
+}
+.Information-Student{
+    width:60%;
+    height:260px;
+    border:2px solid black;
+    padding:0 auto;
+    margin :0 auto;
+    margin-top:40px;
+    border-radius:10px;
+    
+}
+.I {
+    color:red;
+    margin-right:5px;
+}
+ {
+    text-align: center;
+}
+table ,tr , th ,td {
+    margin:5px;
+    text-align: center;
+  
+}
+.t {
+    margin-right: 130px;
+}
+.e {
+    margin-right:110px;
+}
+
+.submit{
+  margin-right:400px;
+    margin-top:20px;
+    font-size:20px;
+width:150px;
+    height:40px;
+}
+.n {
+    text-align: center;
+    
+}
+span {
+    color:blue;
+}
+
+.Subject ,tr ,td{
+   margin: 0 auto;
+    padding:0 auto;
+    color:black;
+    margin-top:4px;
+    padding-top:4px;
+    border-color: skyblue;
+    width:800px;
+    height:30px;
+}
+.time-exam {
+    text-align: center;
+    margin-top:-2px;
+}
+.third-div{
+    height:500px;
+}
+.div-fourth{
+    height:350px;
+}
+.div-five {
+    height:120px;
+}
+.div-six {
+        height:100px;
+
+}
+.div-seven {
+    height:70px;
+}
+.div-eight{
+    text-align: right;
+}
+.responsable {
+    color:red;
+    height:200px;7
+    text-align: center;
+}
+.div-e {
+    height:100px;
+}
+.div-form {
+    height:90px;
+}
+.foot {
+    text-align: center;
+    font-size:15px;
+}
+.footl{
+    text-align: right;
+    margin-right:330px;
+}
