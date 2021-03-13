@@ -32,7 +32,7 @@ body {
 }
 .Information-Student{
     width:60%;
-    height:200px;
+    height:260px;
     border:2px solid black;
     padding:0 auto;
     margin :0 auto;
@@ -72,4 +72,57 @@ width:150px;
 }
 span {
     color:blue;
+}
+
+.Subject ,tr ,td{
+   margin: 0 auto;
+    padding:0 auto;
+    color:black;
+    margin-top:4px;
+    padding-top:4px;
+    border-color: skyblue;
+    width:800px;
+    height:30px;
+}
+.time-exam {
+    text-align: center;
+    margin-top:-2px;
+}
+.third-div{
+    height:500px;
+}
+.div-fourth{
+    height:350px;
+}
+.div-five {
+    height:120px;
+}
+.div-six {
+        height:100px;
+
+}
+.div-seven {
+    height:70px;
+}
+.div-eight{
+    text-align: right;
+}
+.responsable {
+    color:red;
+    height:200px;7
+    text-align: center;
+}
+.div-e {
+    height:100px;
+}
+.div-form {
+    height:90px;
+}
+.foot {
+    text-align: center;
+    font-size:15px;
+}
+.footl{
+    text-align: right;
+    margin-right:330px;
 }
