@@ -27,7 +27,7 @@ float:right;
 }
 
 .b {
- background-image: url('../image/architect.jpg'); 
+ background-image: url('architect.jpg'); 
     background-repeat: no-repeat;
    width:1500;
     height:800px;
@@ -123,7 +123,7 @@ input {
 }
 .footer {
     
- background-image: url(../image/map.jpg);
+ background-image: url(map.jpg);
     width: 94%;
     height:923px;
     background-repeat: no-repeat;
