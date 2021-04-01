@@ -12,6 +12,9 @@ float:left;
     font-family: Verdana,sans-serif;
     letter-spacing: 4px;
 }
+li:hover {    
+   background-color:#F1F1F1;
+}
 nav ul span li {
 float:right;
     padding-right: 20px;
